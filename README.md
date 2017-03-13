@@ -54,14 +54,14 @@ After each sprint, **deploy to heroku** to get practice getting the app online. 
 
 Each group has an assigned instructor or IA, who will act as your client as well as give technical support during instructor-group meetings.
 
-#### Team \#1 - TODO: INSTRUCTOR
-* TODO: STUDENT
-* TODO: STUDENT
+#### Team \#1 - INSTRUCTOR TBD
+* STUDENT TBD
+* STUDENT TBD
 
 
 ## Presentation
 
-Each group will present their project on **TODO: WEEKDAY, MONTH DAY** starting at **TODO: TIME** for 10 minutes.
+Each group will present their *deployed* project on **Thursday, March 16th** starting at **11:40am** for 10 minutes.
 
 Each member of your group should speak for equal parts during your presentation and mention which parts of the project they worked on.
 
@@ -98,6 +98,7 @@ You will be evaluated on the following measures:
   - users are authorized
   - deployed to heroku
   - commenting (optional)
-1. Creativity
+1. User Experience
   - polished appearance
-  - personalized spin, not just a template
+  - intuitive user flow
+  - visually distinct (i.e. not just straight bootstrap)
